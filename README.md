@@ -1,6 +1,6 @@
 # From IaC-to Guardrails Building Secure and Scalable Infrastructure
 
-*Authored by Mark Mallia *
+Authored by Mark Mallia 
 
 ---
 
