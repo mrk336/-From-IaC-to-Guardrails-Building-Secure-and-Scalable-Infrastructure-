@@ -45,7 +45,7 @@ module "public_subnet" {
 ```
 
 > **Tip:** Keep modules small, testable, and version‑controlled.  
-> *Recruiter note:* “You can see the module variables and tags—easy to audit.”
+> *note:* “You can see the module variables and tags—easy to audit.”
 
 ### 3.2 Terragrunt Configuration
 
